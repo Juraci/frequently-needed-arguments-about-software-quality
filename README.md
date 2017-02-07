@@ -12,7 +12,7 @@ Read more:
 
 ## BDD is not about testing, it is not a testing approach
 
-BDD is a design activity meant to leverage communication within the team while guiding the development with an outside-in approach.
+BDD is a design activity meant to leverage communication within the team while guiding the development with an outside-in approach. The fact that by aplying BDD you end up with automated tests is just a side effect but not the main goal.
 
 Read more:
 - [BDD is not about testing](https://speakerdeck.com/tastapod/bdd-is-not-about-testing)
