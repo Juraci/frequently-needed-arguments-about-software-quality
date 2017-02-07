@@ -15,4 +15,4 @@ Read more:
 BDD is a design activity meant to leverage communication within the team while guiding the development with an outside-in approach.
 
 Read more:
-- [BDD is not baout testing](https://speakerdeck.com/tastapod/bdd-is-not-about-testing)
+- [BDD is not about testing](https://speakerdeck.com/tastapod/bdd-is-not-about-testing)
