@@ -16,3 +16,8 @@ BDD is a design activity meant to leverage communication within the team while g
 
 Read more:
 - [BDD is not about testing](https://speakerdeck.com/tastapod/bdd-is-not-about-testing)
+
+## TDD is not for unit testing only
+
+TDD cares about when you are testing not what. So you can do TDD in the acceptance, integration or unit levels.
+Unit tests cares about testing the smallest unit of behavior that you care about.
