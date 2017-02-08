@@ -19,5 +19,8 @@ Read more:
 
 ## TDD is not for unit testing only
 
-TDD cares about when you are testing not what. So you can do TDD in the acceptance, integration or unit levels.
+TDD cares about when you are testing not what. So you can do TDD at any level of granularity, for instance:
+ - in the acceptance level
+ - in the integration level or
+ - in the unit level
 Unit tests cares about testing the smallest unit of behavior that you care about.
