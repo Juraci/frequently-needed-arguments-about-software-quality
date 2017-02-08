@@ -19,6 +19,8 @@ Read more:
 
 ## TDD is not for unit testing only
 
+TDD and Unit testing are [orthogonal](https://en.wikipedia.org/wiki/Orthogonality_(programming)) concepts.
+
 TDD is all about *when* you are testing not *what*. So one can TDD at any level of granularity, for instance:
  - in the acceptance level
  - in the integration level or
