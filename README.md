@@ -1,6 +1,14 @@
-# Frequently needed arguments about sofware quality
+# Frequently needed arguments about software quality
 
-A collection of frequently needed arguments about well stablished and proven practices related to software quality.
+## What?
+
+A collection of frequently needed arguments about well established (empirically validated) practices related to software quality.
+
+## Why?
+
+As a software engineer that cares about quality and that frequently gets involved with new projects in companies or in the open source environment, I usually see the same discussions about a specific topic happen every now and then. 
+
+The problem is that I don't always remember the arguments that led me to a given conclusion, so I'm creating this repository to aggregate these arguments and maybe even change my conclusions by exposing them to different opinions and having discussions around them.
 
 ## Tests with conditional execution paths should be avoided
 
