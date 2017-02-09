@@ -17,7 +17,7 @@ BDD is a design activity meant to leverage communication within the team while g
 Read more:
 - [BDD is not about testing](https://speakerdeck.com/tastapod/bdd-is-not-about-testing)
 
-## TDD goal is not to create unit tests
+## TDD vs Unit testing
 
 TDD and Unit testing are [orthogonal](https://en.wikipedia.org/wiki/Orthogonality_(programming)) concepts.
 
@@ -28,6 +28,4 @@ One can apply TDD at any level of granularity, for instance:
  - in the integration level or 
  - in the unit level
  
-Unit testing is a somewhat vague concept that usually refers to testing the smallest piece of behavior that you care about. You can write unit tests before you write the code for it to pass, while you write the code or after. 
-
-TDD is a design activity that uses tests as specifications to drive the solution in a outside-in fashion.
+Unit testing is a somewhat vague concept that usually refers to testing the smallest piece of behavior that you care about. You can write unit tests before you write the code for it to pass, while you write the code or after. TDD in the other hand is a design activity that uses tests as specifications to drive the solution in a outside-in fashion. It's the developer's responsability to define the level of granularity that he or she wants to drive out with the test.
