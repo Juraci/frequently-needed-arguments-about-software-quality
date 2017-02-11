@@ -18,12 +18,14 @@ Read more:
 - [Nondeterministic algorithm](https://en.wikipedia.org/wiki/Nondeterministic_algorithm)
 - [Eradicating non-determinism in tests](https://martinfowler.com/articles/nonDeterminism.html)
 
-## BDD is not about testing, it is not a testing approach
+## BDD is not about testing, it is not a testing approach (same applies to TDD)
 
 BDD is a design activity meant to leverage communication within the team while guiding the development with an outside-in approach. The fact that by aplying BDD you end up with automated tests is just a side effect but not the main goal.
 
 Read more:
 - [BDD is not about testing](https://speakerdeck.com/tastapod/bdd-is-not-about-testing)
+- [TDD is not about testing](http://java.sys-con.com/node/37795)
+- [TDD is about design not testing](http://www.drdobbs.com/tdd-is-about-design-not-testing/229218691)
 
 ## TDD vs Unit testing
 
