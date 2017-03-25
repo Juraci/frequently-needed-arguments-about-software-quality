@@ -12,7 +12,7 @@ The problem is that I don't always remember the arguments that led me to a given
 
 ## Tests with conditional execution paths should be avoided
 
-Tests with conditional execution paths are intrincically non-deterministic, they mix responsibilities of possibly what could be multiple test cases in one turning the outcome of the test dificult to read and reason about. While a deterministic test has two possible results (it has either passed or failed) a test with conditional paths can have multiple reasons for either passing or failure states. 
+Tests with conditional execution paths are intrinsically non-deterministic, they mix responsibilities of what could possibly be multiple test cases in one, turning the outcome of the test difficult to read and reason about. While a deterministic test has two possible results (it has either passed or failed) a test with conditional paths can have multiple reasons for either passing or failure states. 
 
 Read more:
 - [Nondeterministic algorithm](https://en.wikipedia.org/wiki/Nondeterministic_algorithm)
@@ -38,4 +38,4 @@ One can apply TDD at any level of granularity, for instance:
  - in the integration level or 
  - in the unit level
  
-Unit testing is a somewhat vague concept that usually refers to testing the smallest piece of behavior that you care about. You can write unit tests before you write the code for it to pass, while you write the code or after. TDD in the other hand is a design activity that uses tests as specifications to drive the solution in a outside-in fashion. It's the developer's responsability to define the level of granularity that he or she wants to drive out with the test.
+Unit testing is a somewhat vague concept that usually refers to testing the smallest piece of behavior that you care about. You can write unit tests before you write the code for it to pass, while you write the code or after. TDD in the other hand is a design activity that uses tests as specifications to drive the solution in an outside-in fashion. It's the developer's responsibility to define the level of granularity that they want to drive out with the test.
